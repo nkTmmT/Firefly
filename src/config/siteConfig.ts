@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "TmmT's site",
 
 	// 站点 URL
-	site_url: "https://blog.tmmt.dev",
+	site_url: "https://blog.nktmmt.cc",
 
 	// 站点描述
 	description:
@@ -76,7 +76,7 @@ export const siteConfig: SiteConfig = {
 		logo: {
 			type: "image",
 			value: "assets/images/firefly.png",
-			alt: "🍀",
+			alt: "",
 		},
 		// 导航栏标题
 		title: "TmmT",
