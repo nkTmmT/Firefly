@@ -11,7 +11,7 @@
 
 **️在线预览： [Firefly - Official site](https://firefly.cuteleaf.cn/)**
 
-**我的博客： [TmmT Blog](https://blog.nktmmt.cc)**
+**我的博客： [TmmT Blog](https://blog.tmmt.dev)**
 
 ::github{repo="nkTmmT/Firefly"}
 

@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "TmmT's site",
 
 	// 站点 URL
-	site_url: "https://blog.nktmmt.cc",
+	site_url: "https://blog.tmmt.dev",
 
 	// 站点描述
 	description:
